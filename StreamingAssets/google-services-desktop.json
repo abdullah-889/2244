@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344092166758",
+    "project_id": "puzzle-games-4488",
+    "storage_bucket": "puzzle-games-4488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344092166758:android:a01b0b598710291e983ba7",
+        "android_client_info": {
+          "package_name": "com.fg.number.puzzle.games"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVFferHGYdjqOd4juoEXX6lJuDU7DsiS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
